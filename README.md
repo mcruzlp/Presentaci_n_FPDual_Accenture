@@ -1,1 +1,1 @@
-# Presentación FPDual Accenture <img height="36px" src="/images/accenture.png">
+# Presentación FPDual <img height="36px" src="/images/accenture.png">
